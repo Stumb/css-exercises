@@ -1,0 +1,8 @@
+div {
+    color: white;
+    background-color: red;
+    text-align: center;
+    /*adjusted font-size and weight after viewing solution, everything else correct on initial attempt*/
+    font-size: 32px;
+    font-weight: bold;
+}
